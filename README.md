@@ -99,8 +99,8 @@ S - Significant Priority (Next in line)
 | Working with API | H | 4hrs| -hrs | -hrs |
 | Working with 2nd API | H | 4hrs| -hrs | -hrs |
 | CSS Styling | H | 5hrs| -hrs | -hrs |
-| Post MVP | S | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Post MVP | S | 3hrs| -hrs | -hrs |
+| Total | H | 17.5hrs| -hrs | -hrs |
 
 ## Code Snippet
 
