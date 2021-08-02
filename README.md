@@ -86,7 +86,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 
 ## Priority Matrix
 
-![Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
+![Priority Matrix](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
 
 ## Timeframes
 
