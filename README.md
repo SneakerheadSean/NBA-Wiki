@@ -2,7 +2,7 @@
 
 ## NBA Wiki
 
-The name of your project with deployed URL.
+live site location: TBD
 
 ## Project Description
 
