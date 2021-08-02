@@ -56,7 +56,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 
 ## Wireframes
 
-https://xd.adobe.com/view/c91b59d5-64a3-4e1d-807c-eb577596ad94-9c48/?fullscreen
+https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 
 ### MVP/PostMVP
 
