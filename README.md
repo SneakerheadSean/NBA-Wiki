@@ -79,7 +79,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 |---|---| ---|
 |July 30| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
 |August 2| Project Approval / Core Application Structure (HTML, CSS, etc.) | Complete
-|August 3| Pseudocode / actual code / Initial Clickable Model / MVP | Incomplete
+|August 3| Pseudocode / actual code / Initial Clickable Model / MVP | Complete
 |August 4| Styling with CSS | Incomplete
 |August 5| PostMVP | Incomplete
 |August 6| Presentations | Incomplete
@@ -98,7 +98,7 @@ S - Significant Priority (Next in line)
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | HTML/CSS/JS Structure | H | 1.5hrs| -hrs | -hrs |
-| Working with API | H | 4hrs| -hrs | -hrs |
+| Working with API | H | 4hrs| 2hrs | 2.5hrs |
 | Working with 2nd API | H | 4hrs| -hrs | -hrs |
 | CSS Styling | H | 5hrs| -hrs | -hrs |
 | Post MVP | S | 3hrs| -hrs | -hrs |
