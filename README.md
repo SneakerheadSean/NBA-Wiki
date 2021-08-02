@@ -88,11 +88,18 @@ https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 
 ## Timeframes
 
+Below are the timeframes corresponding to each area of development. 
+
+H - High Priority
+S - Significant Priority (Next in line)
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
+| HTML/CSS/JS Structure | H | 1.5hrs| -hrs | -hrs |
+| Working with API | H | 4hrs| -hrs | -hrs |
+| Working with 2nd API | H | 4hrs| -hrs | -hrs |
+| CSS Styling | H | 5hrs| -hrs | -hrs |
+| Post MVP | S | 3hrs| 2.5hrs | 2.5hrs |
 | Total | H | 6hrs| 5hrs | 5hrs |
 
 ## Code Snippet
