@@ -52,7 +52,7 @@ Code Snippet:
 
 https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png
 
-Note: The above link is to the NBA headshot of Ja Morant. Each player has a unique ID that can be used to display there picture.
+Note: The above link is to the NBA headshot of Ja Morant. Each player has a unique ID that can be used to display their picture.
 
 ## Wireframes
 
