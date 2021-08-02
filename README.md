@@ -50,7 +50,7 @@ Code Snippet:
 
 2nd API (NBA Player Images)
 
-https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png
+![Player Photo](https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png)
 
 Note: The above link is to the NBA headshot of Ja Morant. Each player has a unique ID that can be used to display their picture.
 
