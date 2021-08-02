@@ -17,6 +17,7 @@ NBA API: https://www.balldontlie.io/#introduction
 
 Code Snippet: 
 
+```javascript
 {
   "data":[
     {
@@ -47,6 +48,7 @@ Code Snippet:
     "total_count": 9999
   }
 }
+```
 
 2nd API (NBA Player Images)
 
