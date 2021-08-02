@@ -56,24 +56,23 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 
 ## Wireframes
 
-https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
-
-### MVP/PostMVP
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
+https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1  
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
+- Properly Display Data from External API(s) 
+- Successfully pull data from second API (NBA Player Images)
+- Design works for desktop as well as mobile. 
+- User can search for NBA players
+
 
 #### PostMVP  
 *These are examples only. Replace with your own Post-MVP features.*
+[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917950/Priority.Matrix.pdf)
 
-- Add second API
-- Use local storage to save user favorites
+- Background color changes based on player's team colors
+- Users can add favorite players to a watchlist
+- Related team news is shown under the corresponding player
 
 ## Project Schedule
 
@@ -85,16 +84,17 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |July 30| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
 |August 2| Project Approval / Core Application Structure (HTML, CSS, etc.) | Incomplete
-|August 3| Pseudocode / actual code | Incomplete
-|August 4| Initial Clickable Model  | Incomplete
-|August 5| MVP | Incomplete
+|August 3| Pseudocode / actual code / Initial Clickable Model / MVP | Incomplete
+|August 4| Styling with CSS | Incomplete
+|August 5| PostMVP | Incomplete
 |August 6| Presentations | Incomplete
 
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
 
-## Timeframes
+## Timeframes[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
+
 
 Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
 
