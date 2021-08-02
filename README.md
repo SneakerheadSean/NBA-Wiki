@@ -90,7 +90,7 @@ https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 
 Below are the timeframes corresponding to each area of development. 
 
-H - High Priority
+H - High Priority | 
 S - Significant Priority (Next in line)
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
