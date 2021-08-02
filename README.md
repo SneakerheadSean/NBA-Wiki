@@ -58,7 +58,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 
 ## Wireframes
 
-https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1  
+![wireframe](https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1)
 
 #### MVP 
 
@@ -77,8 +77,8 @@ https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|July 30| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|August 2| Project Approval / Core Application Structure (HTML, CSS, etc.) | Incomplete
+|July 30| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
+|August 2| Project Approval / Core Application Structure (HTML, CSS, etc.) | Complete
 |August 3| Pseudocode / actual code / Initial Clickable Model / MVP | Incomplete
 |August 4| Styling with CSS | Incomplete
 |August 5| PostMVP | Incomplete
@@ -86,7 +86,7 @@ https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 
 ## Priority Matrix
 
-[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
+![Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
 
 ## Timeframes
 
