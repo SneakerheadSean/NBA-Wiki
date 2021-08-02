@@ -65,10 +65,7 @@ https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1
 - Design works for desktop as well as mobile. 
 - User can search for NBA players
 
-
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
-[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917950/Priority.Matrix.pdf)
 
 - Background color changes based on player's team colors
 - Users can add favorite players to a watchlist
@@ -91,10 +88,9 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
+[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
 
-## Timeframes[Priority Matrix.pdf](https://github.com/SneakerheadSean/NBA-Wiki/files/6917951/Priority.Matrix.pdf)
-
+## Timeframes
 
 Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
 
