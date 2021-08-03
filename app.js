@@ -4,6 +4,7 @@ const DOMAIN = "https://www.balldontlie.io/api/v1/players"
 const input = document.querySelector('#search-bar')
 const button = document.querySelector('#search')
 const results = document.querySelector('#results')
+const imageResults = document.querySelector('.insertImage')
 let playersData = null;
 
 const nbaPlayers = async () => {
@@ -31,7 +32,7 @@ function showData(players, idArray) {
   })
   console.log(currentPlayer)
   const playerImage = `http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/${currentPlayer.personId}.png`
-  playerImages(playerImage)
+  // playerImages(playerImage)
 
   players.forEach(player => {
     
@@ -40,40 +41,8 @@ function showData(players, idArray) {
     <h4>Team:</h4>
     <h2>${player.team.full_name}</h2>
     `
-    
+    imageResults.style.backgroundImage = `url(${playerImage})`
     results.insertAdjacentHTML('beforeend', playerData)
   });
 
-}
-
-const playerImages = async (playerPhoto) => {
-  try {
-    // const playersImagesURL = "https://data.nba.net/data/10s/prod/v1/2020/players.json"
-    // const response = await axios.get(playerPhoto)
-    // console.log(response)
-    toDataURL(playerPhoto, function(dataUrl) {
-      // console.log('RESULT:', dataUrl.split(",")[1])
-      const imageData = `<img src=${dataUrl.split(",")[1]}/>`
-      results.insertAdjacentHTML('beforeend', imageData)
-    })
-  } catch (error) {
-    console.error(error)
-  }
-
-
-
-}
-
-function toDataURL(url, callback) {
-  var xhr = new XMLHttpRequest();
-  xhr.onload = function() {
-    var reader = new FileReader();
-    reader.onloadend = function() {
-      callback(reader.result);
-    }
-    reader.readAsDataURL(xhr.response);
-  };
-  xhr.open('GET', url);
-  xhr.responseType = 'blob';
-  xhr.send();
 }
