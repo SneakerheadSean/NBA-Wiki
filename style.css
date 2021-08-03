@@ -17,16 +17,15 @@ body {
 }
 
 .search-results {
-  /* display: flex;
-  justify-content: center; */
   padding: 10px;
   margin: 0 auto;
   text-align: center;
 }
 
 .insertImage {
-  height: 150px;
-  background
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 @media screen and (max-width: 600px) {
