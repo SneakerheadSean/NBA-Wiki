@@ -2,7 +2,7 @@
 
 ## NBA Wiki
 
-live site location: TBD
+https://sneakerheadsean.github.io/NBA-Wiki/
 
 ## Project Description
 

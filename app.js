@@ -40,8 +40,9 @@ function showData(players, idArray) {
     <h1 id="player-name">${player.first_name} ${player.last_name}</h1>
     <h4>Team:</h4>
     <h2>${player.team.full_name}</h2>
+    <img src="${playerImage}"/>
     `
-    imageResults.style.backgroundImage = `url(${playerImage})`
+    // imageResults.style.backgroundImage = `url(${playerImage})`
     results.insertAdjacentHTML('beforeend', playerData)
   });
 
