@@ -108,10 +108,30 @@ S - Significant Priority (Next in line)
 
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
 
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
+``` javascript
+
+function showData(players, idArray) {
+  results.innerHTML = ""
+
+  const currentPlayer = idArray.find((player) => {
+    return player.firstName === players[0].first_name && player.lastName === players[0].last_name
+  })
+  // console.log(currentPlayer)
+  const playerImage = `http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/${currentPlayer.personId}.png`
+  
+  players.forEach(player => {
+    
+    let playerData = `
+    <h1 id="player-name">${player.first_name} ${player.last_name}</h1>
+    <h4>Team:</h4>
+    <h2>${player.team.full_name}</h2>
+    <img src="${playerImage}"/>
+    `
+    results.insertAdjacentHTML('beforeend', playerData)
+  });
+
 }
+
 ```
 
 ## Change Log

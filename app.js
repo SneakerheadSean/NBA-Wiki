@@ -27,7 +27,7 @@ function showData(players, idArray) {
   const currentPlayer = idArray.find((player) => {
     return player.firstName === players[0].first_name && player.lastName === players[0].last_name
   })
-  console.log(currentPlayer)
+  // console.log(currentPlayer)
   const playerImage = `http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/${currentPlayer.personId}.png`
   
   players.forEach(player => {
