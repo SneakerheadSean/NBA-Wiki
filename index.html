@@ -10,33 +10,48 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div id="container" class="background">
-      
-        <div class="content">
-          
-          <h1>NBA WIKI</h1>
-          <h3>Find Your Favorite Player</h3>
-          <input type="text" id="search-bar" placeholder="EX: Michael Jordan">
-          <button id="search">Ball!</button>
-          
+      <nav>
+
+        <div id="mySidenav" class="sidenav">
+          <a href="#" id="NFL">NFL</a>
+          <a href="#" id="Soccer">Soccer</a>
+          <a href="#" id="News">News</a>
+          <a href="./about.html" id="about">About</a>
         </div>
         
+        <!-- Use any element to open the sidenav -->
+        <!-- <button onclick="openNav()">Change Sports</button> -->
         
-        
-        <div class="search">
+        <div id="main">
           
-   
-       </div>
-    </div>
-   <!-- Below is the code corresponding to the search bar and button -->
-
-    <!-- After an input is passed, the results are displayed below  -->
-    <div class="search-results" id="results">
-      
-    </div>
-    <div class="insertImage">
-
-    </div>
+          <div id="container" class="background">
+          
+            <div class="content">
+              
+              <h1>NBA WIKI</h1>
+              <h3>Find Your Favorite Player</h3>
+              <input type="text" id="search-bar" placeholder="Enter Player Name">
+              <button id="search">Ball!</button>
+              
+            </div>
+            
+            
+            
+            <div class="search">
+              
+       
+           </div>
+        </div>
+           
+        <!-- After an input is passed, the results are displayed below  -->
+        <div class="search-results" id="results">
+          
+        </div>
+        <div class="insertImage">
+    
+        </div>
+        </div>
+      </nav>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script defer src="./app.js"></script>
   </body>
