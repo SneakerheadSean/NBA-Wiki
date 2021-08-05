@@ -51,19 +51,19 @@ body {
   background-color: green;
 }
 
-#Soccer {
+#NBA {
   top: 80px;
-  background-color: #2196F3; /* Blue */
+  background-color: blue;
 }
 
 #News {
   top: 140px;
-  background-color: red; /* Red */
+  background-color: red;
 }
 
 #about {
   top: 200px;
-  background-color: #555 /* Light Black */
+  background-color: #555; 
 }
 
 @media screen and (max-width: 600px) {
