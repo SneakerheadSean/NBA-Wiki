@@ -63,7 +63,7 @@ body {
 
 #about {
   top: 200px;
-  background-color: #555; 
+  background-color: #555;
 }
 
 @media screen and (max-width: 600px) {
