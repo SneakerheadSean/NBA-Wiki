@@ -97,12 +97,12 @@ S - Significant Priority (Next in line)
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML/CSS/JS Structure | H | 1.5hrs| -hrs | -hrs |
+| HTML/CSS/JS Structure | H | 1.5hrs| 3hrs | 3hrs |
 | Working with API | H | 4hrs| 2hrs | 2.5hrs |
 | Working with 2nd API | H | 4hrs| 5hrs | 6hrs |
-| CSS Styling | H | 5hrs| -hrs | -hrs |
+| CSS Styling | H | 5hrs| 4hrs | 6hrs |
 | Post MVP | S | 3hrs| -hrs | -hrs |
-| Total | H | 17.5hrs| -hrs | -hrs |
+| Total | H | 17.5hrs| 14hrs | 17.5hrs |
 
 ## Code Snippet
 
@@ -116,7 +116,6 @@ function showData(players, idArray) {
   const currentPlayer = idArray.find((player) => {
     return player.firstName === players[0].first_name && player.lastName === players[0].last_name
   })
-  // console.log(currentPlayer)
   const playerImage = `http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/${currentPlayer.personId}.png`
   
   players.forEach(player => {
