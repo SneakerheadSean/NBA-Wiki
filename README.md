@@ -2,7 +2,7 @@
 
 ## NBA Wiki
 
-https://sneakerheadsean.github.io/NBA-Wiki/
+![NBA Wiki](https://sneakerheadsean.github.io/NBA-Wiki/)
 
 ## Project Description
 
