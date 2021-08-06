@@ -6,7 +6,7 @@ https://sneakerheadsean.github.io/NBA-Wiki/
 
 ## Project Description
 
-An application that can be used to access NBA player information quickly.
+An application that can be used to access NBA, NFL, and news information quickly.
 
 ## API and Data Sample
 While looking through the data, I realized that this data source does not include pictures so below is another API that I used to display player images. 
