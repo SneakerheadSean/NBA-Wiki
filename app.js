@@ -37,6 +37,8 @@ function showData(players, idArray) {
     );
   });
 
+  // Once we have the player's ID, we can pass that data to API below and render that data to the browser.
+  
   const playerImage = `http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/${currentPlayer.personId}.png`;
 
   players.forEach((player) => {
