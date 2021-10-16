@@ -4,7 +4,7 @@
 
 [NBA Wiki](https://sneakerheadsean.github.io/NBA-Wiki/)
 
-## Project Description
+## Description
 
 An application that can be used to access NBA, NFL, and news information quickly.
 
@@ -56,7 +56,7 @@ Code Snippet:
 
 Note: The above link is to the NBA headshot of Ja Morant. Each player has a unique ID that can be used to display their picture.
 
-## Wireframes
+## Wireframe
 
 ![wireframe](https://www.figma.com/file/S5UBWwkfoteOrfuh4DM3Md/NBA-WIki?node-id=0%3A1)
 
@@ -73,7 +73,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 - Users can add favorite players to a watchlist
 - Related team news is shown under the corresponding player
 
-## Project Schedule
+## Schedule
 
 |  Day | Deliverable | Status
 |---|---| ---|
@@ -82,7 +82,7 @@ Note: The above link is to the NBA headshot of Ja Morant. Each player has a uniq
 |August 3| Pseudocode / actual code / Initial Clickable Model / MVP | Complete
 |August 3| Styling with CSS | Complete
 |August 5| PostMVP | Incomplete
-|August 6| Presentations | Incomplete
+|August 6| product Launch | Complete
 
 ## Priority Matrix
 
@@ -106,7 +106,7 @@ S - Significant Priority (Next in line)
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
+Below is a code snippet that shows how I fed data from one API into another, so I can get the NBA players' headshot to render to the browser. 
 
 ``` javascript
 
@@ -133,6 +133,6 @@ function showData(players, idArray) {
 
 ```
 
-## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.  
+
+
 
