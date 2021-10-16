@@ -6,7 +6,7 @@
 
 ## Description
 
-An application that can be used to access NBA, NFL, and news information quickly.
+A web application that allows a user to find a players' team.
 
 ## API and Data Sample
 While looking through the data, I realized that this data source does not include pictures so below is another API that I used to display player images. 
