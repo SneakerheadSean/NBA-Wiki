@@ -23,6 +23,7 @@ const nbaPlayers = async () => {
 };
 
 // Once the button is clicked, the function is called and the data is returned to the browser.
+
 button.addEventListener("click", nbaPlayers);
 
 // Data from the above API does not include NBA players' pictures. In order to solve for that, I created another function to take the user's input, retrieves the data from the first API and then uses the second api below to return the player's picture.
